@@ -3,9 +3,9 @@ title: Whovian Fandom
 description: > # this means to ignore newlines until "baseurl:"
  This is a cool website created by me, Grace, because i can. If you see this site, you are awesome. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-g
+url: "gracealaye.github.io" # the base hostname & protocol for your site
+twitter_username: GraceAlaye
+github_username:  GraceAlaye
+
 # Build settings
 markdown: kramdown
