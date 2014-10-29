@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is a page created by a fan for fans, of the famous television series, Doctor Who.It's really cool. Enjoy fellow Whovians. 
+This is a epic page created by a fan for fans of the famous television series, Doctor Who.
+
+~Enjoy fellow Whovians.~ 
